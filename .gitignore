@@ -28,24 +28,6 @@ node_modules
 
 *.bak
 *.mwb.bak
-acordo-certo-app/src/main/webapp/.vscode/settings.json
-acordo-certo-batch-process/nullLOG_1461787912390_CLI_AC_CRM_TESTE.TXT
-acordo-certo-batch-process/nullLOG_1461788063514_CALL_RBRA_LT83.txt
-acordo-certo-batch-process/nullLOG_1461788063514_CLI_AC_CRM_TESTE.TXT
-acordo-certo-batch-process/nullLOG_1461788063514_CNAB_RBRA_LT83.txt
-acordo-certo-batch-process/nullLOG_1461788063514_CONTR_RBRA_LT83.txt
-acordo-certo-batch-process/nullLOG_1461873063309_CALL_RBRA_LT83.txt
-acordo-certo-batch-process/nullLOG_1461873063309_CLI_AC_CRM_TESTE.TXT
-acordo-certo-batch-process/nullLOG_1461873063309_CNAB_RBRA_LT83.txt
-acordo-certo-batch-process/nullLOG_1461873063309_CONTR_RBRA_LT83.txt
-acordo-certo-batch-process/nullLOG_1461874257975_CALL_RBRA_LT83.txt
-acordo-certo-batch-process/nullLOG_1461874257975_CLI_AC_CRM_TESTE.TXT
-acordo-certo-app/src/main/webapp/.vscode/launch.json
-acordo-certo-app/src/main/webapp/.vscode/tasks.json
-acordo-certo-batch-process/nullLOG_1467399938318_CALL_LT81_AC.txt
-acordo-certo-batch-process/nullLOG_1467399938318_CLI_AC_CRM_FINAL.txt
-acordo-certo-batch-process/nullLOG_1467399938318_CNAB_LT81_AC.txt
-acordo-certo-batch-process/nullLOG_1467399938318_CONTR_LT81_AC.txt
 
 # Idea project files
 .idea/
