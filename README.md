@@ -28,4 +28,4 @@ Obs: Exponha com o formato json
 
 A documentação foi gerada utilizando o Swagger. Para consultar a documentação, acessar:
 
-- url: http://< enderço do servidor de app >:< porta >/swagger-ui.html
+- url: http://< enderço do servidor de app >:< porta >/swagger-ui.html (ex. http://localhost:8080/swagger-ui.html)
