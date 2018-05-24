@@ -23,3 +23,9 @@ Obs: Crie o model para tratar o payload
 5 - Exponha os dados retornados e documente o endpoint
 
 Obs: Exponha com o formato json
+
+# Documentação
+
+A documentação foi gerada utilizando o Swagger. Para consultar a documentação, acessar:
+
+- url: http://<enderço do servidor de app>:<porta>/swagger-ui.html
