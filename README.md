@@ -26,7 +26,7 @@ Obs: Exponha com o formato json
 
 # Documentação
 
-A documentação foi gerada utilizando o Swagger. Para consultar a documentação, acessar:
+A documentação do endpoint foi gerada utilizando o Swagger. Para consultar a documentação, acessar:
 
 - url: http://< enderço do servidor de app >:< porta >/swagger-ui.html 
   
